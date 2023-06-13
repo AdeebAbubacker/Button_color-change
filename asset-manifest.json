@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Button_color-change/static/css/main.4cf034de.css",
+    "main.js": "/Button_color-change/static/js/main.f45a40da.js",
+    "static/js/787.142da1d4.chunk.js": "/Button_color-change/static/js/787.142da1d4.chunk.js",
+    "index.html": "/Button_color-change/index.html",
+    "main.4cf034de.css.map": "/Button_color-change/static/css/main.4cf034de.css.map",
+    "main.f45a40da.js.map": "/Button_color-change/static/js/main.f45a40da.js.map",
+    "787.142da1d4.chunk.js.map": "/Button_color-change/static/js/787.142da1d4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4cf034de.css",
+    "static/js/main.f45a40da.js"
+  ]
+}
